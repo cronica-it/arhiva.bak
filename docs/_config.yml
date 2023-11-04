@@ -33,9 +33,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-author:
-  name: Liviu Ionescu
-  email: "ilg@livius.net"
+author: Liviu Ionescu
+email: "ilg@livius.net"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
