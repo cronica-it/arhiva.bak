@@ -34,7 +34,6 @@ plugins:
   - jekyll-feed
 
 author: Liviu Ionescu
-email: "ilg@livius.net"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
