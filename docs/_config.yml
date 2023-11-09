@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cronica IT - arhiva de fișiere binare
+title: Cronica IT&C - arhiva de fișiere binare
 email: cronica.it.ro@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Acest sit este folosit
