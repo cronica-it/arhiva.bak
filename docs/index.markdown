@@ -5,6 +5,9 @@
 layout: home
 ---
 
+Acest site este asemenea unui muzeu, și are ca scop prezervarea pe termen
+lung a istoriei IT&C din România.
+
 Index:
 
 - [`assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf`](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf) - Alexandru Rotaru, Ph. D.: _De la Free Software la Internet - Relatări din primii ani de Free Software și Internet în România_
