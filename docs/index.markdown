@@ -18,7 +18,7 @@ lung** a istoriei IT&C din România.
 
 ### 1984
 
-- A. Petrescu, T. Moisa, N. Tăpuș, I. Athanasiu, T. Tănase, T. Mihu, T. Domocos, S. Anghel, G. Drăghicescu: _**Microcalculatorul FELIX-PC**_ (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) [![PDF](assets/img/pdf-24.png)](assets/1984/apetrescu-felix-pc.pdf)
+- A. Petrescu, T. Moisa, N. Țăpuș, I. Athanasiu, T. Tănase, T. Mihu, T. Domocos, S. Anghel, G. Drăghicescu: _**Microcalculatorul FELIX-PC**_ (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) [![PDF](assets/img/pdf-24.png)](assets/1984/apetrescu-felix-pc.pdf)
 
 ### 1982
 
@@ -36,7 +36,7 @@ lung** a istoriei IT&C din România.
 
 ### 1972
 
-- A. Petrescu, N. Țăpuș, t. Moisa: _**Microcalculatorul MC-1**_ (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) [![PDF](assets/img/pdf-24.png)](assets/1972/apetrescu-micro-mc1.pdf)
+- A. Petrescu, N. Țăpuș, T. Moisa: _**Microcalculatorul MC-1**_ (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) [![PDF](assets/img/pdf-24.png)](assets/1972/apetrescu-micro-mc1.pdf)
 
 ### 1970
 
