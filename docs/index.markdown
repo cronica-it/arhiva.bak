@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-----
+---
 
 Acest site este un **muzeu digital** și are ca scop **prezervarea pe termen
 lung** a istoriei IT&C din România.
