@@ -1,5 +1,5 @@
-# archive
+# archiva
 
-An archive for PDF and binary files.
+O archivă cu documente PDF și alte fișiere binare.
 
-The project is hosted on GitHub as [cronica-it/archive](https://github.com/cronica-it/archive), and is visible as a [web site](https://cronica-it.github.io/archive/).
+Proiectul este găzduit de GitHub [cronica-it/archiva](https://github.com/cronica-it/archiva), și este vizibil ca un [sit web](https://cronica-it.github.io/archiva/).
