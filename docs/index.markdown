@@ -11,3 +11,4 @@ lung a istoriei IT&C din România.
 Index:
 
 - [`assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf`](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf) - Alexandru Rotaru, Ph. D.: _De la Free Software la Internet - Relatări din primii ani de Free Software și Internet în România_
+- [`assets/babes-bolyai/memento-felix-c-256.pdf`](assets/babes-bolyai/memento-felix-c-256.pdf) - Universitatea "Babes Bolyai" Cluj-Napoca, Universitatea de Matematica - Uz Intern 1975 - _Memento Felix C-256_
