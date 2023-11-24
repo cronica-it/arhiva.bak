@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Acest site este un **muzeu digital** și are ca scop **prezervarea pe termen
+Acest sit Web este un **muzeu digital** și are ca scop **prezervarea pe termen
 lung** a istoriei IT&C din România.
 
 ### 2013
