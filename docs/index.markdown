@@ -32,7 +32,7 @@ lung a istoriei IT&C din România.
 
 - A. Petrescu și alții: _Microcalculatorul FELIX MC-8_ (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) [![PDF](assets/img/pdf_24.png)](assets/1975/FELIX_MC-8.pdf)
 
-- Universitatea "Babes Bolyai" Cluj-Napoca, Facultatea de Matematică - Uz Intern: _Memento Felix C-256_ [![PDF](assets/img/pdf_24.png)](assets/1975/memento-felix-c-256.pdf)
+- Universitatea "Babes Bolyai" Cluj-Napoca, Facultatea de Matematică - Uz Intern: _Memento Felix C-256_ (scan) [![PDF](assets/img/pdf_24.png)](assets/1975/memento-felix-c-256.pdf)
 
 ## 1972
 
