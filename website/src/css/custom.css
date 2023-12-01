@@ -1,0 +1,56 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #008cb4;
+  --ifm-color-primary-dark: #007ea2;
+  --ifm-color-primary-darker: #007799;
+  --ifm-color-primary-darkest: #00627e;
+  --ifm-color-primary-light: #009ac6;
+  --ifm-color-primary-lighter: #00a1cf;
+  --ifm-color-primary-lightest: #00b6ea;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00a3d7;
+  --ifm-color-primary-dark: #0093c2;
+  --ifm-color-primary-darker: #008bb7;
+  --ifm-color-primary-darkest: #007297;
+  --ifm-color-primary-light: #00b3ed;
+  --ifm-color-primary-lighter: #00bbf7;
+  --ifm-color-primary-lightest: #19c7ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+table.chronology tr {
+  line-height: 1em;
+}
+
+table.chronology {
+  margin-bottom: 0.2em;
+}
+
+p.chronology_length {
+  font-size: 0.9em;
+}
+
+div.container {
+  text-align: left;
+}
+
+div.footer__copyright {
+  text-align: left;
+}
+
+header.hero {
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 0;
+}
