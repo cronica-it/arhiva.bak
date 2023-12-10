@@ -8,12 +8,12 @@ lung** a istoriei IT&C din România.
 
 ### 2023
 
-- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_ (arhivat de la [cniv.ro](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)) <a href="./assets/2023/rradujugu-cniv-volum-aniversar-2023-versiune-online.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_ (arhivat de la [cniv.ro](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)) <a href="./assets/2023/radujugu-cniv-volum-aniversar-2023-versiune-online.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
 ### 2018
 
 - Radu Jugureanu, Dorina Jugureanu: _**Istoria informatizării în mediul
-preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.academia.edu/attachments/58679853/download_file?s=portfolio)) <a href="./assets/2018/radujugu-istoria-informatizarii-in-mediul-preuniv.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.academia.edu/43375781/Istoria_informatizării_în_mediul_preuniversitar_românesc_1985_2018)) <a href="./assets/2018/radujugu-istoria-informatizarii-in-mediul-preuniv.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
 ### 2014
 
