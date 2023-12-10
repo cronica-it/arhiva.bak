@@ -6,6 +6,9 @@ slug: /
 Acest sit Web este un **muzeu digital** și are ca scop **prezervarea pe termen
 lung** a istoriei IT&C din România.
 
+### 2023
+
+- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_ (arhivat de la [cniv.ro](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)) <a href="./assets/2023/rradujugu-cniv-volum-aniversar-2023-versiune-online.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
 ### 2018
 
