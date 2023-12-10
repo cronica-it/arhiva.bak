@@ -7,6 +7,11 @@ Acest sit Web este un **muzeu digital** și are ca scop **prezervarea pe termen
 lung** a istoriei IT&C din România.
 
 
+### 2018
+
+- Radu Jugureanu, Dorina Jugureanu: _**Istoria informatizării în mediul
+preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.academia.edu/attachments/58679853/download_file?s=portfolio)) <a href="./assets/2018/radujugu-istoria-informatizarii-in-mediul-preuniv.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+
 ### 2014
 
 - Universitatea Politehnica București, Facultatea de Automaticã și Calculatoare: _**Departamentul de Calculatoare 1969 - 2014**_ (arhivat de la [cs.pub.ro](https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf)) <a href="./assets/2014/upb-brosura-45-cs.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
