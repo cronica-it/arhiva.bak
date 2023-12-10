@@ -7,6 +7,10 @@ Acest sit Web este un **muzeu digital** și are ca scop **prezervarea pe termen
 lung** a istoriei IT&C din România.
 
 
+### 2014
+
+- Universitatea Politehnica București, Facultatea de Automaticã și Calculatoare: _**Departamentul de Calculatoare 1969 - 2014**_ (arhivat de la [cs.pub.ro](https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf)) <a href="./assets/2014/upb-brosura-45-cs.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+
 ### 2013
 
 - Alexandru Rotaru: _**De la Free Software la Internet - Relatări din primii ani de Free Software și Internet în România**_ <a href="./assets/2013/arot-brosura-a5-tipar.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
