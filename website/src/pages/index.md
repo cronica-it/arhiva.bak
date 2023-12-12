@@ -22,6 +22,7 @@ preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.
 ### 2013
 
 - Alexandru Rotaru: _**De la Free Software la Internet - Relatări din primii ani de Free Software și Internet în România**_ <a href="./assets/2013/arot-brosura-a5-tipar.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+- ICE Felix: _**HC 85 Manual Tehnic**_ (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <a href="./assets/1986/ice-hc-85-manual-tehnic.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
 ### 1985
 
