@@ -25,6 +25,7 @@ preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.
 
 ### 1985
 
+- Lixco: _**Microcalculatorul L/B 881**_ (schemă 1983, articole Tehnium 11-12/85, 1-10/86, 1/88) (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <a href="./assets/1985/lixco-lb-881-tehnium.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 - A. Petrescu, F. Iacob, T. Domocos, T. Mihu, E. Dobrovie: _**Microcalculatorul personal HC-85**_  (arhivat de la [CSIT](http://www.csit-sun.pub.ro/research/history)) <a href="./assets/1985/apetrescu-hc-85.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
 ### 1984
